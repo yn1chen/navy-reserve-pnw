@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/yn1chen/navy-reserve-pnw/static/css/main.4ebb1c8e.css",
-    "main.js": "/yn1chen/navy-reserve-pnw/static/js/main.0f8bba61.js",
-    "static/js/787.5396a7a9.chunk.js": "/yn1chen/navy-reserve-pnw/static/js/787.5396a7a9.chunk.js",
-    "static/media/10.jpg": "/yn1chen/navy-reserve-pnw/static/media/10.97f87b0c946357f6dbbb.jpg",
-    "static/media/tricare.jpg": "/yn1chen/navy-reserve-pnw/static/media/tricare.a4a087436169a48964ae.jpg",
-    "static/media/3.jpg": "/yn1chen/navy-reserve-pnw/static/media/3.fc3bd42e1d7db9352012.jpg",
-    "static/media/1.jpg": "/yn1chen/navy-reserve-pnw/static/media/1.49e9b0445ff522f864ef.jpg",
-    "static/media/12.jpg": "/yn1chen/navy-reserve-pnw/static/media/12.4825c2b14604b5c26c87.jpg",
-    "static/media/8.jpg": "/yn1chen/navy-reserve-pnw/static/media/8.ddac141c4670c3a2c8fd.jpg",
-    "static/media/2.jpg": "/yn1chen/navy-reserve-pnw/static/media/2.0d40e395d26a7e5575e0.jpg",
-    "static/media/4.jpg": "/yn1chen/navy-reserve-pnw/static/media/4.c142a80c8adfaf695460.jpg",
-    "static/media/11.jpg": "/yn1chen/navy-reserve-pnw/static/media/11.06903392cb836d41b9bd.jpg",
-    "static/media/13.jpg": "/yn1chen/navy-reserve-pnw/static/media/13.585e027a5e4b42889b1e.jpg",
-    "static/media/9.jpg": "/yn1chen/navy-reserve-pnw/static/media/9.c1bd13db02c8dd588542.jpg",
-    "static/media/7.jpg": "/yn1chen/navy-reserve-pnw/static/media/7.beaea2504028c81b6187.jpg",
-    "static/media/14.jpg": "/yn1chen/navy-reserve-pnw/static/media/14.b671c1a4046f7930514c.jpg",
-    "index.html": "/yn1chen/navy-reserve-pnw/index.html",
-    "main.4ebb1c8e.css.map": "/yn1chen/navy-reserve-pnw/static/css/main.4ebb1c8e.css.map",
-    "main.0f8bba61.js.map": "/yn1chen/navy-reserve-pnw/static/js/main.0f8bba61.js.map",
-    "787.5396a7a9.chunk.js.map": "/yn1chen/navy-reserve-pnw/static/js/787.5396a7a9.chunk.js.map"
+    "main.css": "/navy-reserve-pnw/static/css/main.4ebb1c8e.css",
+    "main.js": "/navy-reserve-pnw/static/js/main.3556c251.js",
+    "static/js/787.5396a7a9.chunk.js": "/navy-reserve-pnw/static/js/787.5396a7a9.chunk.js",
+    "static/media/10.jpg": "/navy-reserve-pnw/static/media/10.97f87b0c946357f6dbbb.jpg",
+    "static/media/tricare.jpg": "/navy-reserve-pnw/static/media/tricare.a4a087436169a48964ae.jpg",
+    "static/media/3.jpg": "/navy-reserve-pnw/static/media/3.fc3bd42e1d7db9352012.jpg",
+    "static/media/1.jpg": "/navy-reserve-pnw/static/media/1.49e9b0445ff522f864ef.jpg",
+    "static/media/12.jpg": "/navy-reserve-pnw/static/media/12.4825c2b14604b5c26c87.jpg",
+    "static/media/8.jpg": "/navy-reserve-pnw/static/media/8.ddac141c4670c3a2c8fd.jpg",
+    "static/media/2.jpg": "/navy-reserve-pnw/static/media/2.0d40e395d26a7e5575e0.jpg",
+    "static/media/4.jpg": "/navy-reserve-pnw/static/media/4.c142a80c8adfaf695460.jpg",
+    "static/media/11.jpg": "/navy-reserve-pnw/static/media/11.06903392cb836d41b9bd.jpg",
+    "static/media/13.jpg": "/navy-reserve-pnw/static/media/13.585e027a5e4b42889b1e.jpg",
+    "static/media/9.jpg": "/navy-reserve-pnw/static/media/9.c1bd13db02c8dd588542.jpg",
+    "static/media/7.jpg": "/navy-reserve-pnw/static/media/7.beaea2504028c81b6187.jpg",
+    "static/media/14.jpg": "/navy-reserve-pnw/static/media/14.b671c1a4046f7930514c.jpg",
+    "index.html": "/navy-reserve-pnw/index.html",
+    "main.4ebb1c8e.css.map": "/navy-reserve-pnw/static/css/main.4ebb1c8e.css.map",
+    "main.3556c251.js.map": "/navy-reserve-pnw/static/js/main.3556c251.js.map",
+    "787.5396a7a9.chunk.js.map": "/navy-reserve-pnw/static/js/787.5396a7a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ebb1c8e.css",
-    "static/js/main.0f8bba61.js"
+    "static/js/main.3556c251.js"
   ]
 }
